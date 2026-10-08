@@ -1,0 +1,5 @@
+﻿Threat regime,Best-performing methods,Weakest performer,Approximate final range,Principal observation
+Clean,"TC, TC-hard-median, Median, Trimmed",Krum,"0.55–0.65 (NF-CSE, NF-ToN); 0.70–0.76 (UNSW, CIDDS)",Substantial overlap after 8–12 rounds; Krum consistently lower
+Sign-flip,"TC, TC-hard-median",Krum,Dataset-dependent,TC variants higher and more stable; ablations intermediate
+ALIE,"TC, TC-hard-median",Krum,TC 0.60–0.68; Krum 0.45–0.55 on difficult sources,Largest separation among methods; median and trimmed recover partially
+Gaussian,TC family,Krum,Dataset-dependent; most methods overlap,Differences comparatively small; TC exhibits lower variability

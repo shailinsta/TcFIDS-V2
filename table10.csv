@@ -1,0 +1,5 @@
+﻿Environment,Test rows,Attack flows,Attack share
+NF-CSE-CIC-IDS2018,"10,000",658,6.6%
+NF-ToN-IoT,"10,000","8,294",82.9%
+UNSW-NB15,"50,000","27,594",55.2%
+CIDDS-001,"10,002",32,0.3%

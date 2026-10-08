@@ -1,0 +1,6 @@
+﻿Variant,Attack Recall,Balanced Acc.
+Coordinate-wise median,0.396,0.652
+TC-hard-median (threshold 0.55),0.464,0.671
+Full TC-FedIDS (soft + GroupDRO),0.410,0.660
+TC-no-trajectory,0.404,0.658
+TC-no-GroupDRO,0.406,0.658

@@ -1,0 +1,11 @@
+﻿System/Yr,IDS-specific,Non-IID / heterogeneous setting,Multi-round / trajectory information,Aggregation or trust mechanism,Primary focus
+FedAvg [3] 2017,No,Basic FL,No,Weighted averaging,Federated learning baseline
+Krum [6] 2017,No,Not explicit,No,Byzantine-robust client selection,Byzantine tolerance
+FL-IIDS [18] 2024,Yes,Incremental IDS setting,No explicit trajectory,Federated incremental learning,Incremental intrusion detection
+rFedFW [11] 2024,No,Yes; IoT heterogeneity,No explicit trajectory,Reputation/trust-aware robust aggregation,Trustable Byzantine-robust FL
+Contribution-wise robust aggregation [30] 2024,No,Yes; class imbalance,No explicit trajectory,Contribution-aware robust aggregation,Byzantine robustness and class balance
+FLAD [26] 2025,No,Yes; IID and non-IID,No explicit trajectory,Gradient-feature anomaly detection,Byzantine-robust FL
+DBFL [19] 2025,No,Yes; heterogeneous data,No explicit trajectory,Dynamic Byzantine-robust aggregation,Byzantine robustness and privacy
+FedCmp [29] 2025,No,Yes; highly non-IID,Yes; multi-round voting,Update clustering and filtering,Byzantine robustness under heterogeneity
+TrustFed-IDS [13] 2026,Yes,Yes; WSN heterogeneity,"Update stability, but not the proposed trajectory representation",Multi-criteria trust-weighted aggregation,Trust-aware federated IDS
+TC-FedIDS ( Proposed),Yes,Yes; four network environments,Yes; five-round update trajectory,Continuous trajectory trust + Huber-GroupDRO–FISTA,Heterogeneous federated IDS and Byzantine robustness

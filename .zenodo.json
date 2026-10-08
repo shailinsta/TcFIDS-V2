@@ -1,0 +1,37 @@
+{
+  "title": "TC-FedIDS: Trajectory-Aware Trust and Environment-Risk Aggregation for Heterogeneous Federated Intrusion Detection",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Code, measured results, figures and tables for TC-FedIDS, a trajectory-aware aggregation framework for heterogeneous federated intrusion detection. TC-FedIDS maintains a five-round history of each client's updates, derives four temporal descriptors (direction persistence, update-norm entropy, second-order acceleration, update-norm variance), and fuses them with geometric deviation, environment alignment and validation residuals into continuous trust weights. These weights are used as soft coefficients in a Huber-regularised GroupDRO objective solved with bounded FISTA. The evaluation uses 28 clients across four NetFlow environments (NF-CSE-CIC-IDS2018, NF-ToN-IoT, UNSW-NB15, CIDDS-001) under Dirichlet non-IID partitioning, with clean, ALIE, sign-flip and Gaussian-noise settings over ten seeds.</p>",
+  "creators": [
+    {
+      "name": "Mishra, Saumya",
+      "affiliation": "Department of Computer Science and Engineering, MNNIT Allahabad, India"
+    },
+    {
+      "name": "Mishra, Shailendra",
+      "affiliation": "College of Computer and Information Sciences, Majmaah University, Al-Majmaah 11952, Saudi Arabia"
+    },
+    {
+      "name": "Rathi, Megha",
+      "affiliation": "Department of Computer Science and Engineering, Jaypee Institute of Information Technology, Noida, India"
+    },
+    {
+      "name": "Khan, Ahmad Raza",
+      "affiliation": "College of Computer and Information Sciences, Majmaah University, Al-Majmaah 11952, Saudi Arabia"
+    }
+  ],
+  "keywords": [
+    "Federated learning",
+    "Federated intrusion detection",
+    "Heterogeneous networks",
+    "Trajectory-aware trust",
+    "Byzantine perturbations",
+    "GroupDRO",
+    "NetFlow",
+    "Non-IID data",
+    "Robust aggregation"
+  ],
+  "access_right": "open",
+  "language": "eng"
+}

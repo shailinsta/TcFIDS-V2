@@ -1,0 +1,16 @@
+﻿Study / System,FL-IDS,Non-IID / Heterogeneity,Byzantine Defence,Trust / Reliability,Multi-Round Information,Environment-Level Risk
+SAFE-IDS [25],✓,✓,–,–,–,–
+TrustFed-IDS [13],✓,✓,✓,✓,Historical reliability,–
+FedCmp [29],–,✓,✓,–,Multi-round update comparison,–
+DBFL [19],–,✓,✓,✓,Dynamic defence,–
+rFedFW [11],–,✓,✓,✓,Historical reliability,–
+TPFL [21],–,✓,✓,✓,–,–
+Personalised FL-IDS [22],✓,✓,✓,–,–,–
+FLAD [23],✓,✓,✓,Adaptive treatment,–,–
+FedSBS [24],✓,✓,–,Participant selection,–,–
+Gradient-feature anomaly FL [26],–,–,✓,–,–,–
+RFVIR [27],–,–,✓,–,–,–
+Cosine-similarity aggregation [28],–,–,✓,Similarity-based,–,–
+Contribution-wise robust aggregation [30],–,Class imbalance,✓,Contribution-based,–,–
+Partially trusted FL [31],–,✓,✓,✓,–,–
+TC-FedIDS (proposed),✓,✓,✓*,✓,Five-round trajectory,✓

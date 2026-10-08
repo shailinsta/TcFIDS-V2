@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "TC-FedIDS: Trajectory-Aware Trust and Environment-Risk Aggregation for Heterogeneous Federated Intrusion Detection"
+version: 1.0.0
+authors:
+  - family-names: Mishra
+    given-names: Saumya
+    affiliation: "Department of Computer Science and Engineering, MNNIT Allahabad, India"
+  - family-names: Mishra
+    given-names: Shailendra
+    affiliation: "College of Computer and Information Sciences, Majmaah University, Saudi Arabia"
+  - family-names: Rathi
+    given-names: Megha
+    affiliation: "Department of Computer Science and Engineering, Jaypee Institute of Information Technology, Noida, India"
+  - family-names: Khan
+    given-names: Ahmad Raza
+    affiliation: "College of Computer and Information Sciences, Majmaah University, Saudi Arabia"
+# doi: 10.5281/zenodo.XXXXXXX   # add after Zenodo issues the DOI

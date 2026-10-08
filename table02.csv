@@ -1,0 +1,5 @@
+﻿Dataset,Processing mode,Flows,Native attack rate,Features
+NF-CSE-CIC-IDS2018,Full,50 000,0.0647,5
+NF-ToN-IoT,Full,50 000,0.8280,5
+UNSW-NB15,Harm5,50 000,0.5490,5
+CIDDS-001,Harm5,50 000,0.0149,5
